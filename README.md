@@ -1,12 +1,17 @@
 # Hungry Project
 
-Simple Python beginner project.
+A simple beginner Python project.
+
+## Description
+This project checks whether the user is hungry and displays a response.
 
 ## Features
 - User input
-- If-else conditions
+- Conditional statements
 - Beginner friendly
 
-## Run
-```bash
-python Hungry.ipynb
+## Technologies Used
+- Python
+
+## Author
+Amin Qureshi
